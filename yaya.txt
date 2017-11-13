@@ -5,3 +5,6 @@ git½Ì³Ì
 
 you are a b branch
 >>>>>>> b-branch
+
+
+c-feature
